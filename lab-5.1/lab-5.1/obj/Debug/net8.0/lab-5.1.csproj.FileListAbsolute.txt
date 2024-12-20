@@ -1,0 +1,14 @@
+C:\Users\tueva\Documents\C#\lab-5.1\lab-5.1\bin\Debug\net8.0\lab-5.1.exe
+C:\Users\tueva\Documents\C#\lab-5.1\lab-5.1\bin\Debug\net8.0\lab-5.1.deps.json
+C:\Users\tueva\Documents\C#\lab-5.1\lab-5.1\bin\Debug\net8.0\lab-5.1.runtimeconfig.json
+C:\Users\tueva\Documents\C#\lab-5.1\lab-5.1\bin\Debug\net8.0\lab-5.1.dll
+C:\Users\tueva\Documents\C#\lab-5.1\lab-5.1\bin\Debug\net8.0\lab-5.1.pdb
+C:\Users\tueva\Documents\C#\lab-5.1\lab-5.1\obj\Debug\net8.0\lab-5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tueva\Documents\C#\lab-5.1\lab-5.1\obj\Debug\net8.0\lab-5.1.AssemblyInfoInputs.cache
+C:\Users\tueva\Documents\C#\lab-5.1\lab-5.1\obj\Debug\net8.0\lab-5.1.AssemblyInfo.cs
+C:\Users\tueva\Documents\C#\lab-5.1\lab-5.1\obj\Debug\net8.0\lab-5.1.csproj.CoreCompileInputs.cache
+C:\Users\tueva\Documents\C#\lab-5.1\lab-5.1\obj\Debug\net8.0\lab-5.1.dll
+C:\Users\tueva\Documents\C#\lab-5.1\lab-5.1\obj\Debug\net8.0\refint\lab-5.1.dll
+C:\Users\tueva\Documents\C#\lab-5.1\lab-5.1\obj\Debug\net8.0\lab-5.1.pdb
+C:\Users\tueva\Documents\C#\lab-5.1\lab-5.1\obj\Debug\net8.0\lab-5.1.genruntimeconfig.cache
+C:\Users\tueva\Documents\C#\lab-5.1\lab-5.1\obj\Debug\net8.0\ref\lab-5.1.dll

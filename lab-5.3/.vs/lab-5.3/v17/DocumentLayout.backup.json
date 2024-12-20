@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tueva\\Documents\\C#\\lab-5.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{967B4FBA-E8B0-4A96-8080-40F735A85358}|lab-5.3\\lab-5.3.csproj|c:\\users\\tueva\\documents\\c#\\lab-5.3\\lab-5.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{967B4FBA-E8B0-4A96-8080-40F735A85358}|lab-5.3\\lab-5.3.csproj|solutionrelative:lab-5.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tueva\\Documents\\C#\\lab-5.3\\lab-5.3\\Program.cs",
+              "RelativeDocumentMoniker": "lab-5.3\\Program.cs",
+              "ToolTip": "C:\\Users\\tueva\\Documents\\C#\\lab-5.3\\lab-5.3\\Program.cs*",
+              "RelativeToolTip": "lab-5.3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:29:09.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
